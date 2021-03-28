@@ -1,3 +1,3 @@
 program hello
-	write *."Hello worls"
+	write *."Hello world"
 end  program hello
